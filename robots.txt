@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin-area-234xyz/
+Disallow: /flag_is_here_secret_path_12345/
+Disallow: /temporary_files/
